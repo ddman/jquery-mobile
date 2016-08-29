@@ -197,7 +197,7 @@
 			<div data-demo-html="true">
 				<div class="ui-field-contain">
 					<label for="flip-1">Flip toggle:</label>
-					<select name="flip-1" id="flip-1" data-role="slider">
+					<select name="flip-1" id="flip-1" data-role="flipswitch">
 						<option value="off">Off</option>
 						<option value="on">On</option>
 					</select>
@@ -427,7 +427,7 @@
 			<div data-demo-html="true">
 				<div class="ui-field-contain">
 					<label for="flip-5">Flip toggle:</label>
-					<select name="flip-5" id="flip-5" data-role="slider" data-mini="true">
+					<select name="flip-5" id="flip-5" data-role="flipswitch" data-mini="true">
 						<option value="off">Off</option>
 						<option value="on">On</option>
 					</select>
